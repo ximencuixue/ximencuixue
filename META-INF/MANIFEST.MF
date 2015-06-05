@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SSH________
+Bundle-SymbolicName: SSH________
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.shxt.git

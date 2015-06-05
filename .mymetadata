@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SSH权限管理系统分支"
+  id="myeclipse.1433476204235"
+  context-root="/SSH权限管理系统分支"
+  j2ee-spec="5.0"
+  archive="SSH权限管理系统分支.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
